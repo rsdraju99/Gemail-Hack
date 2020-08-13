@@ -7,13 +7,13 @@
 ### to ack victim account.Brute force attack is the only successful method to hack account
 ### but this process will take long time depend upon the length of password.
 
-### git clone https://github.com/Ha3MrX/Gemail-Hack
+### git clone https://github.com/rsdraju99/Gemail-Hack
     
 ### cd Gemail-Hack
 
 ### chmod +x gemailhack.py
 
-### python gemailhack.py
+### python2 gemailhack.py
 
 ### ScreenShot
 
@@ -21,9 +21,6 @@
 
 ### YouTube Channel
 
-https://www.youtube.com/c/HA-MRX
+https://www.youtube.com/channel/UCtaTU9P_85SekvDTBVU2mEQ?view_as=subscriber
 
-### Video Tutorial
-
-https://www.youtube.com/watch?v=CZwNK6fOqEI&t=37s
 
